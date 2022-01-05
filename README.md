@@ -14,18 +14,21 @@ I am extremely interested in any similar post to continue my passion on developi
 # [Project in the renewable energy sector](https://github.com/HousssamSadouk/Forcasting_Microgrid)
 
 
-Exploratory time series analysis with additive and multipocative methods for :
+I.Exploratory time series analysis with additive and multipocative methods for :
    
-   1.Trend 
+   1.Trend
+   
    2.Level
+   
    3.Seasonality
+   
    4.Noise
    
-Augmented Dickey-Fuller test suitable for time series
+II.Augmented Dickey-Fuller test suitable for time series
 
-Univariate tiem series forecasting (SARIMA,ARIMA,ARMA,Moving Average,Univariate Prophet)
+III.Univariate tiem series forecasting (SARIMA,ARIMA,ARMA,Moving Average,Univariate Prophet)
 
-Multivariate time series forecasting (Multivariate regression,Random Forest,XGBoost,SVR,Multivariate Prophet,LSTM,GRU,DeepAR)
+IV.Multivariate time series forecasting (Multivariate regression,Random Forest,XGBoost,SVR,Multivariate Prophet,LSTM,GRU,DeepAR)
 
 
 
