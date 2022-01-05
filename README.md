@@ -17,7 +17,7 @@ I am extremely interested in any similar post to continue my passion on developi
 I.Exploratory time series analysis with additive and multipocative methods for :
    
    1.Trend
-   
+ 
    2.Level
    
    3.Seasonality
