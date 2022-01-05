@@ -11,8 +11,7 @@ I am extremely interested in any similar post to continue my passion on developi
 
 
 
-# [Project 1# in the renewable energy sector:Forecast and optimization by using all models of machine learning and deep learning for goal to reduce electricity consumption by integrating an intelligent micro- grid in a medium-voltage establishment using energy management system
-(https://github.com/HousssamSadouk/Forcasting_Microgrid)
+# [Project 1# in the renewable energy sector:Forecast and optimization by using all models of machine learning and deep learning for goal to reduce electricity consumption by integrating an intelligent micro- grid in a medium-voltage establishment using energy management system](https://github.com/HousssamSadouk/Forcasting_Microgrid)
 
 
 I.Exploratory time series analysis with additive and multipocative methods for :
