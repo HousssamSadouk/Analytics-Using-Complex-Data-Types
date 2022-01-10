@@ -40,15 +40,13 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 
 ---
  
-###  [Exchange Rate Analysis During US Election](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/FX_Analysis_During_US_Election/main.ipynb)
-* Predicted US (2016) election results in realtime as the voting results of each region becomes available.
-* Regressed states with results against polling data and predicted results for the remaining states
-* Monte Carlos simulation used to simulate the winner of the election.
-* Compared simulated results with exchange rates fluctuations to see if market is efficient.
-* **Keywords**(Python, Linear Regression, Monte Carlos Simulation)
-<img src="FX_Analysis_During_US_Election/results.png" width="500">
- 
- 
+###  [Petrol-Price-Forecasting-Using-Auto-Keras](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/FX_Analysis_During_US_Election/main.ipynb)
+* Main aim of this project is to predict and forecast the correct oil/petrol prices for the upcoming dates using ML techniques and Auto ML.
+* We know that petrol prices are going up continously these days and it has become very hard to predict what will be the price range in the next few months or even days.
+* So in this project we will try to forecast the different petrol prices for the upcoming dates given to us ,also we will use LSTM and ARIMA forecasting models to predict the prices then we will see how we can implement the same using Auto-Keras.
+* what is an auto ML library who enables developpers with limited ML expertise to train high-quality models specific to their business needs.
+* Timeline of the project.
+![image](https://github.com/HousssamSadouk/Petrol-Price-Forecasting-Using-Auto-Keras/blob/main/timeline%20project.png?raw=true)
 ---
  
 ###  [Power-law or Log-normal? Baby Name and Twitter Analysis](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Power_Law_vs_Lognormal_US_Babynames/Power_Law_vs_Lognormal_US_Babynames.md)
