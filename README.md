@@ -54,14 +54,14 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 * We have a dataset that contains information about people that are using cards issued by a particular bank.it states out some of the characteristics of these people which includes family informations,marital status and how often and in what way are they using the bank issued cards.we will be using this dataset to predict the type of card a customer may issue.
 * So we start off with building ML model we use a RandomForestClassifier model and train that model using the bank card datapoints.
 * There is abundant information on how cards are being used by the people , but you might have to search some complex terms wich constitutes as columns in the dataset before you may start preprocessing the data.
-
- 
+![image](https://github.com/HousssamSadouk/Build-Bank-Customers-Predictions/blob/main/images.jpeg?raw=true) 
 ---
  
  
 ### [Forest-Fire-Prediction](https://github.com/HousssamSadouk/Forest-Fire-Prediction/blob/main/Forest%20Fires.ipynb)
 * Forest, bush or vegetation , can be described as any uncontrolled and non-prescribed combustion or burning of plants in a natural setting such as forest , grassland.we will not determining if a forest fire will take place or not , we are predicting the confidence of the forest fire based on some attributes.
 * so we start off with building a ML model using RandomForestRegression model and train that model using the dataset.For this project you will also see RandomSearchCV in action and how we have implemented it.
+![image](https://github.com/HousssamSadouk/Forest-Fire-Prediction/blob/main/te%CC%81le%CC%81chargement.jpeg?raw=true) 
 ---
  
  
