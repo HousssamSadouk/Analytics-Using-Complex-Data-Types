@@ -59,29 +59,12 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 ---
  
  
-### [Twitter Sentiment Daily and Weekly Fluctuations]()
-* Parsed a few GB of Tweets to select all the tweets in UK and in English.
-* Used 'qdap' package to analyze the emotion of the Tweets
-* Plotted the emotions over the day and over the week and analysed the interesting results.
-* **Keywords**(R, Twitter API, Time Series, Sentiment Analysis, ggplot)
-  <img src="Twitter_Sentiement_Analysis/Twitter_sentiment_Analysis_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-2.png" width="500">
+### [Forest-Fire-Prediction](https://github.com/HousssamSadouk/Forest-Fire-Prediction/blob/main/Forest%20Fires.ipynb)
+* Forest, bush or vegetation , can be described as any uncontrolled and non-prescribed combustion or burning of plants in a natural setting such as forest , grassland.we will not determining if a forest fire will take place or not , we are predicting the confidence of the forest fire based on some attributes.
+* so we start off with building a ML model using RandomForestRegression model and train that model using the dataset.For this project you will also see RandomSearchCV in action and how we have implemented it.
 ---
  
  
-### [GDP and Future Orientation](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/GDP%20and%20Future%20Orientation/GDP_and_Future_Orientation.md)
-* Downloaded economic indicators data using World Bank API, and cleaned data
-* Downloaded search query of next and last year in Google for each country
-* Fitted linear regression between GDP and future orientation
-* **Keywords**(R, World Bank API, Google API, Data Cleaning, Linear regression)
-  <img src="GDP%20and%20Future%20Orientation/GDP_and_Future_Orientation_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-1.png" width="500">
- 
----
- 
-###  [Exchange Rate Analysis During UK Election - Under Construction](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/FX_Analysis_during_UK_Election/main.ipynb)
-* Predicted UK (2017) election victories as the voting results as it happened.
-* retrieved from Tweets of result announcement and extracted time of announcement for each region.
-* Regressed regions with results against polling data and predicted results for the remaining regions
-* Monte Carlos simulation used to simulate the winner of the election.
-* **Keywords**(Python, Twitter API, Merging Data)
+
  
  
