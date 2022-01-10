@@ -40,7 +40,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 
 ---
  
-###  [Petrol-Price-Forecasting-Using-Auto-Keras](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/FX_Analysis_During_US_Election/main.ipynb)
+###  [Petrol-Price-Forecasting-Using-Auto-Keras](https://github.com/HousssamSadouk/Petrol-Price-Forecasting-Using-Auto-Keras/blob/main/Petrol%20Price%20Forecasting.ipynb)
 * Main aim of this project is to predict and forecast the correct oil/petrol prices for the upcoming dates using ML techniques and Auto ML.
 * We know that petrol prices are going up continously these days and it has become very hard to predict what will be the price range in the next few months or even days.
 * So in this project we will try to forecast the different petrol prices for the upcoming dates given to us ,also we will use LSTM and ARIMA forecasting models to predict the prices then we will see how we can implement the same using Auto-Keras.
@@ -49,17 +49,17 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 ![image](https://github.com/HousssamSadouk/Petrol-Price-Forecasting-Using-Auto-Keras/blob/main/timeline%20project.png?raw=true)
 ---
  
-###  [Power-law or Log-normal? Baby Name and Twitter Analysis](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Power_Law_vs_Lognormal_US_Babynames/Power_Law_vs_Lognormal_US_Babynames.md)
-* Fitted power-law and log-normal distribution to US baby names data since 1960.
-* Use bootstrapping techniques to find a distribution of the power-law parameters
-* Crawled Twitter to find 20000 random user and fitted power law distribution to users' friends count and followers count.
-* **Keywords**(R, Power-law, Bootstrapping, Log-normal)
-<img src="Power_Law_vs_Lognormal_US_Babynames/Power_Law_vs_Lognormal_US_Babynames_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-1.png" width="500">
+ 
+###  [Build-Bank-Customers-Predictions](https://github.com/HousssamSadouk/Build-Bank-Customers-Predictions/blob/main/Bank.ipynb)
+* We have a dataset that contains information about people that are using cards issued by a particular bank.it states out some of the characteristics of these people which includes family informations,marital status and how often and in what way are they using the bank issued cards.we will be using this dataset to predict the type of card a customer may issue.
+* So we start off with building ML model we use a RandomForestClassifier model and train that model using the bank card datapoints.
+* There is abundant information on how cards are being used by the people , but you might have to search some complex terms wich constitutes as columns in the dataset before you may start preprocessing the data.
+
  
 ---
  
  
-### [Twitter Sentiment Daily and Weekly Fluctuations](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Twitter_Sentiement_Analysis/Twitter_sentiment_Analysis.md)
+### [Twitter Sentiment Daily and Weekly Fluctuations]()
 * Parsed a few GB of Tweets to select all the tweets in UK and in English.
 * Used 'qdap' package to analyze the emotion of the Tweets
 * Plotted the emotions over the day and over the week and analysed the interesting results.
