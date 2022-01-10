@@ -23,8 +23,8 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 * Augmented Dickey-Fuller test suitable for time series
 * Univariate tiem series forecasting (SARIMA,ARIMA,ARMA,Moving Average,Univariate Prophet)
 * Multivariate time series forecasting (Multivariate regression,Random Forest,XGBoost,SVR,Multivariate Prophet,LSTM,GRU,DeepAR)
-* **Keywords**(Anomaly Detection, Time Series, LSTM, Weather, Beijing, Semi-supervised learning)
-![image](https://github.com/alexhuang1117/personal_projects/blob/master/pm25_analysis/images/pollution_anom.png?raw=true)
+
+![image](https://github.com/HousssamSadouk/Forcasting_Microgrid/blob/main/resultat.png?raw=true)
 
 ---
  
