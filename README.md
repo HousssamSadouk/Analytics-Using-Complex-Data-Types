@@ -4,7 +4,7 @@ I'm glad to share with you my portfolio as a Data Scientist with a little experi
 
 I obtain my master degree in artificiel intelligence and IoT Innovation at the Hassania School Of Public, Casablanca. My master thesis defense was about « Forecast and optimization by using all models of machine learning and deep learning for goal to reduce electricity consumption by integrating an intelligent micro- grid in a medium-voltage establishment using energy management system. » Also i took my master’s degree in computer physics at Faculty of Science ,University Mohammed V Rabat , where throughout this course i did simulations and modeling of physical problems with the implementation of computer science. I am extremely interested in any similar post to continue my passion on developing research activities in several aspects of AI , data science and computer science.
 
-Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-329435161/) if you are looking to hire a data scientist.
+Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-329435161/) if you are looking to hire a data scientist or a data analyst.
  
 ## Projects:
 
