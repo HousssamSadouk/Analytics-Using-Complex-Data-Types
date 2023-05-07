@@ -39,13 +39,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 
 ---
  
-###  [Petrol-Price-Forecasting-Using-Auto-Keras](https://github.com/HousssamSadouk/Petrol-Price-Forecasting-Using-Auto-Keras/blob/main/Petrol%20Price%20Forecasting.ipynb)
-* Main aim of this project is to predict and forecast the correct oil/petrol prices for the upcoming dates using ML techniques and Auto ML.
-* We know that petrol prices are going up continously these days and it has become very hard to predict what will be the price range in the next few months or even days.
-* So in this project we will try to forecast the different petrol prices for the upcoming dates given to us ,also we will use LSTM and ARIMA forecasting models to predict the prices then we will see how we can implement the same using Auto-Keras.
-* what is an auto ML library who enables developpers with limited ML expertise to train high-quality models specific to their business needs.
-* Timeline of the project.
-![image](https://github.com/HousssamSadouk/Petrol-Price-Forecasting-Using-Auto-Keras/blob/main/timeline%20project.png?raw=true)
+
 ---
  
  
@@ -57,11 +51,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/houssam-sadouk-32943
 ---
  
  
-### [Forest-Fire-Prediction](https://github.com/HousssamSadouk/Forest-Fire-Prediction/blob/main/Forest%20Fires.ipynb)
-* Forest, bush or vegetation , can be described as any uncontrolled and non-prescribed combustion or burning of plants in a natural setting such as forest , grassland.we will not determining if a forest fire will take place or not , we are predicting the confidence of the forest fire based on some attributes.
-* so we start off with building a ML model using RandomForestRegression model and train that model using the dataset.
-* For this project you will also see RandomSearchCV in action and how we have implemented it.
-![image](https://github.com/HousssamSadouk/Forest-Fire-Prediction/blob/main/te%CC%81le%CC%81chargement.jpeg?raw=true) 
+
 ---
  
  
